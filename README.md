@@ -1183,4 +1183,5 @@ You'd need to **manually upgrade** to Blaze (pay-as-you-go) if you:
 
 ---
 
-*This PRD documents DuoTasks as of December 2025. The product is fully functional and deployed.*
+*This PRD documents DuoTasks as of December 2025. The product is fully functional and deployed.
+https://mashoodawan.github.io/TaskManagementTool/ *
